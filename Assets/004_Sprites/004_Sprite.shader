@@ -1,4 +1,4 @@
-Shader "Unlit/004_Sprite"
+Shader "Reprint/004_Sprite"
 {
     Properties
     {
